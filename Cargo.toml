@@ -2,7 +2,7 @@
 name = "tap"
 version = "0.1.0"
 edition = "2021"
-authors = ["Pedro Henrique <hello@exst.fun>"]
+authors = ["Pedro Henrique <hello@exst.fun>", "Leonardo <leoo.contact@gmail.com>"]
 license = "MIT"
 description = "🌌 An elegant XBPS helper written in Rust."
 repository = "https://github.com/xhyze/tap"
