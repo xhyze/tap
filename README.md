@@ -1,6 +1,5 @@
 <div align="center">
     <h1>🌺 tap</h1>
-    <br/> </br>
     <a href="https://github.com/xhyze/tap">
         <img src="https://img.shields.io/github/stars/xhyze/tap?colorA=0b0d10&colorB=3fcc6c&style=for-the-badge&logo=github">
     </a>
